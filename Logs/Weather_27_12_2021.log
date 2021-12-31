@@ -1,0 +1,2092 @@
+2021-12-27 11:54:20 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 11:54:22 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 11:56:34 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 11:56:35 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 11:56:35 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 11:56:35 ERROR UserDao:205 - User validation failed- prateekm
+
+2021-12-27 11:56:35 ERROR LoginController:99 - Invalid user- prateekm
+
+2021-12-27 11:56:59 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 11:56:59 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 11:56:59 INFO  UserDao:202 - User Validation successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 11:56:59 INFO  LoginController:84 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginController:85 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:56:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 11:57:23 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 11:57:25 ERROR ViewDao:232 - java.lang.NullPointerException: Cannot invoke "java.io.FileOutputStream.close()" because "this.outputStream" is null
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+com.model.dao.ReportViewerDao.getReport(ReportViewerDao.java:229)
+com.dao.Service.reportViewerService.getReport(reportViewerService.java:14)
+com.controllers.servlet.ReportController.doPost(ReportController.java:103)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-12-27 11:59:50 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 11:59:51 ERROR ViewDao:232 - java.lang.NullPointerException: Cannot invoke "java.io.FileOutputStream.close()" because "this.outputStream" is null
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+com.model.dao.ReportViewerDao.getReport(ReportViewerDao.java:229)
+com.dao.Service.reportViewerService.getReport(reportViewerService.java:14)
+com.controllers.servlet.ReportController.doPost(ReportController.java:103)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-12-27 12:48:52 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 12:48:54 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 12:49:26 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 12:49:27 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 12:49:27 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 12:49:27 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 12:49:27 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:36 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:49:36 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 12:50:25 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 12:50:25 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 12:50:25 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:25 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:50:46 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:51:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:52:45 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 12:52:47 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 12:53:02 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 12:53:04 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 12:53:31 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 12:53:31 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 12:53:31 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 12:53:31 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 12:53:31 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:52 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:53:55 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 12:54:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:11 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:33 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:01:44 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:02:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:21 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 13:03:23 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 13:03:48 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 13:03:48 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:03:48 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:03:48 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:48 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 13:03:48 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:48 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:03:49 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:10 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:12 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:17 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:38 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:59 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:59 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:59 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:04:59 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:02 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:07:02 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:07:02 ERROR UserDao:205 - User validation failed- ggggg
+
+2021-12-27 13:07:02 ERROR LoginController:99 - Invalid user- ggggg
+
+2021-12-27 13:07:26 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:07:26 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:07:26 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 13:07:26 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:07:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:10 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:08:10 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:08:10 ERROR UserDao:205 - User validation failed- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:10 ERROR LoginController:99 - Invalid user- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:08:37 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:08:37 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 13:08:37 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:08:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:05 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:26 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:09:47 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:12:35 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:12:35 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 13:12:35 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:35 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:56 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:57 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:57 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:57 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:12:57 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:16 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:14:37 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:22 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 13:19:24 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 13:19:30 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 13:19:32 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-27 13:19:58 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 13:19:58 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:19:58 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 13:19:58 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 13:19:58 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:19:58 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:19 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:20 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:20 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:20 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:20 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:27 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:20:48 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:21:09 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 13:21:09 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 15:53:31 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-27 15:53:31 INFO  UserDao:202 - User Validation successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-27 15:53:31 INFO  LoginController:84 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginController:85 - Login successfull- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:31 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:32 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 15:53:53 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:13 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+
+2021-12-27 16:03:34 INFO  LoginFilter:56 - username- Mgtndl.upasanaj@aicofindia.com
+

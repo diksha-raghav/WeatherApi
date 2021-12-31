@@ -1,0 +1,87 @@
+@charset "ISO-8859-1";
+*, *:before, *:after {
+box-sizing: border-box;
+border:0;
+margin:0;
+}
+
+body{
+background:#EBEBEB;
+}
+
+.main-body-section{
+height:100vh;
+padding-top:10px;
+padding-bottom:30px;
+}
+
+.aiclogo{
+padding:10px;
+}
+
+form{
+background:white;
+height:100%;
+margin-left:60px;
+margin-right:60px;
+border-radius:5px;
+border: .5px solid black;
+}
+
+.heading{
+text-align: center;
+font-size: large;
+color:black;
+padding:20px;
+}
+
+select{
+background:#e5e3e3;
+padding:2px 5px;
+width:22ch;
+line-height:2;
+border:1px solid black;
+}
+
+#grid_container{
+display:grid;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 1fr 1fr;
+width:50%;
+align-items: center;
+justify-items: center;
+grid-gap:30px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+}
+
+form{
+text-align: center;
+}
+
+form > button{
+border:0;
+padding: 5px 8px;
+background: #0CCA4A;
+color:white;
+border-radius:2px;
+margin:1px;
+font-size:1.1rem;
+}
+
+input[type="date"]{
+background:#e5e3e3;
+border:1px solid black;
+font:1rem;
+padding:2px 5px;
+
+}
+input[type="text"]{
+background:#e5e3e3;
+border:1px solid black;
+font:1rem;
+width:11vw;
+padding:2px 5px;
+}
+h3{font-size:24px;}

@@ -1,0 +1,1422 @@
+2021-12-29 12:13:59 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:14:01 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:14:05 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:14:05 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:14:05 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:14:06 INFO  UserDao:202 - User Validation successfull- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:14:06 INFO  LoginController:84 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginController:85 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:06 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:08 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:14:20 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:14:21 ERROR ViewDao:591 - java.lang.NullPointerException: Cannot invoke "java.io.FileOutputStream.close()" because "this.outputStream" is null
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+com.model.dao.ReportViewerDao.getReport(ReportViewerDao.java:588)
+com.dao.Service.reportViewerService.getReport(reportViewerService.java:26)
+com.controllers.servlet.ReportController.doPost(ReportController.java:124)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-12-29 12:14:49 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:14:51 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:29:42 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:29:44 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:29:48 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:29:48 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:29:48 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:29:48 INFO  UserDao:202 - User Validation successfull- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:29:48 INFO  LoginController:84 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginController:85 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:48 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:50 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:29:51 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:30:10 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:30:12 ERROR ViewDao:601 - java.lang.NullPointerException: Cannot invoke "java.io.FileOutputStream.close()" because "this.outputStream" is null
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+com.model.dao.ReportViewerDao.getReport(ReportViewerDao.java:598)
+com.dao.Service.reportViewerService.getReport(reportViewerService.java:26)
+com.controllers.servlet.ReportController.doPost(ReportController.java:124)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-12-29 12:31:59 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:32:01 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:34:27 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:34:29 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:34:41 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:34:41 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:34:41 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:34:41 INFO  UserDao:202 - User Validation successfull- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:34:41 INFO  LoginController:84 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginController:85 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:41 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:34:44 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:12 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:36:14 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:36:27 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:36:27 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:36:27 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:36:27 INFO  UserDao:202 - User Validation successfull- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:36:27 INFO  LoginController:84 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginController:85 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:27 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:32 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:36:44 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:36:45 ERROR ViewDao:605 - java.lang.NullPointerException: Cannot invoke "java.io.FileOutputStream.close()" because "this.outputStream" is null
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+com.model.dao.ReportViewerDao.getReport(ReportViewerDao.java:602)
+com.dao.Service.reportViewerService.getReport(reportViewerService.java:26)
+com.controllers.servlet.ReportController.doPost(ReportController.java:124)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-12-29 12:41:50 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:41:51 ERROR ViewDao:605 - java.lang.NullPointerException: Cannot invoke "java.io.FileOutputStream.close()" because "this.outputStream" is null
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+com.model.dao.ReportViewerDao.getReport(ReportViewerDao.java:602)
+com.dao.Service.reportViewerService.getReport(reportViewerService.java:26)
+com.controllers.servlet.ReportController.doPost(ReportController.java:124)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-12-29 12:46:37 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:46:39 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:46:43 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:46:43 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:46:43 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 12:46:43 INFO  UserDao:202 - User Validation successfull- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 12:46:43 INFO  LoginController:84 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginController:85 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:43 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:46:45 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 12:47:51 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 12:47:52 ERROR ViewDao:605 - java.lang.NullPointerException: Cannot invoke "java.io.FileOutputStream.close()" because "this.outputStream" is null
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+com.model.dao.ReportViewerDao.getReport(ReportViewerDao.java:602)
+com.dao.Service.reportViewerService.getReport(reportViewerService.java:26)
+com.controllers.servlet.ReportController.doPost(ReportController.java:124)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:831)
+
+2021-12-29 13:15:07 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 13:15:09 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 13:22:55 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 13:22:57 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 13:23:03 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 13:23:03 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 13:23:03 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-29 13:23:03 INFO  UserDao:202 - User Validation successfull- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-29 13:23:03 INFO  LoginController:84 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginController:85 - Login successfull- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:03 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:07 INFO  LoginFilter:56 - username- prateekm@aicofindia.com
+
+2021-12-29 13:23:20 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-29 13:23:21 ERROR ViewDao:596 - java.lang.NullPointerException: Cannot invoke "java.io.FileOutputStream.close()" because "this.outputStream" is null
+
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+com.model.dao.ReportViewerDao.getReport(ReportViewerDao.java:593)
+com.dao.Service.reportViewerService.getReport(reportViewerService.java:26)
+com.controllers.servlet.ReportController.doPost(ReportController.java:124)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.base/java.lang.Thread.run(Thread.java:831)
+

@@ -1,0 +1,385 @@
+
+body{
+	
+	
+	
+	width:100vw;
+	position:absolute;
+	height:100vh;
+	margin: 0px;
+	padding:0px;
+	min-width:1250px;
+	min-height:550px;
+	z-index: -1;
+}
+#mainbody
+{
+	width:100%;
+	height:100%;
+	text-align:center;
+	background-color: rgba(245,245,245,1);
+	padding:100px;
+	z-index: -1;
+	position:absolute;
+}
+#maincard
+{
+	width:60%;
+	height:40%;
+	min-width:800px;
+	min-height:300px;
+	text-align:center;
+	top:50%;
+	margin:auto;
+	display:table;
+	border-radius:50px;
+	z-index:1;
+	position:relative;
+	transform:translateY(-50%);
+	-ms-transform:translateY(-50%);
+	
+	
+}
+#maincard:before, #maincard:after {
+   z-index: -2; /* send this element backward */
+   position: absolute; /* absolute positioning referring to effect2 */
+   content: ""; /* just required, no need to put anything inside */
+   bottom: 30px; /* bottom shadow alignment, less is closer to bottom */
+   left: 150px; /* consider this like a margin left */
+   width: 80%; /* width of the shadow element background */
+   top: 80%; /* consider this as margin top of the shadow - element */
+   max-width:500px; /* restricts the max width of the shadow element */
+   background: #777; /* gives a background color to the shadow element */
+   -webkit-box-shadow: -10px 35px 40px #777; /* compatibility case application */
+   -moz-box-shadow: -10px 35px 40px #777; /* compatibility case application */
+   box-shadow: -10px 25px 40px #777; /* applied the basic box-shadow property */
+ 
+   /* rotation of shadows/elements gives that 3D look to the box */
+   -webkit-transform: rotate(-5deg);
+   -moz-transform: rotate(-5deg);
+   -o-transform: rotate(-5deg);
+   -ms-transform: rotate(-5deg);
+   transform: rotate(-5deg);
+}
+#maincard:after {
+   -webkit-transform: rotate(5deg); /* aligns the shadow right */
+   -moz-transform: rotate(5deg);
+   -o-transform: rotate(5deg);
+   -ms-transform: rotate(5deg);
+   transform: rotate(5deg);
+   right: 150px; /* consider this like a margin right */
+   left: auto; /* leave this auto to automatically set the - left */
+   -webkit-box-shadow: 10px 35px 30px #777; /* compatibility case application */
+   -moz-box-shadow: 10px 35px 30px #777; /* compatibility case application */
+   box-shadow: 10px 25px 30px #777; /* applied the basic box-shadow property */
+ 
+}
+#innerbody1
+{   z-index: 2;
+    position:relative;
+	background: lightblue url("../images/BGFINAL.png") no-repeat;
+    background-size: 100% auto;
+	background-color: rgba(255,255,255,0);
+	height:auto;
+	width:40%;
+	display:table-cell;
+	text-align:center !important;
+	border-radius: 50px 0px 0px 50px;
+	
+}
+.inputs i{
+	position:absolute;
+	
+}
+.icon{
+	 padding: 10px;
+	 padding-top:15px;
+	 min-width: 20px;
+	 color:#aaaaaa;
+	 
+}
+#innerbody2
+{   z-index: 2;
+	background-color: rgba(255,255,255,1);
+    min-height:650px;
+	width:60%;
+	margin: 0px;
+	padding-top:20px;
+	display:table-cell;
+	position:relative;
+	border-radius: 0px 50px 50px 0px;
+}
+.container1
+{
+	width:90%;
+	height:400px;
+	margin:auto;
+	padding:15px;
+	padding-top:20px;
+	
+	z-index: 1;
+position:relative;
+}
+.container2
+{
+	width:97%;
+	height:99%;
+	background-color: rgba(255,255,255,1);
+	margin:0 auto;
+	padding:20px;
+	border-radius:5px;
+	z-index: 1;
+position:relative;
+}
+.container2 h1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 900;
+	margin-bottom:0px;
+	text-align:center;
+}
+.container2 p
+{
+	color:#aaaaaa;
+	margin-top:0px;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	font-size:13px;
+}
+.field-icon{
+    float:right;
+    margin-left: -10px;
+    margin-top: -15px;
+    position: relative;
+    z-index:2
+}
+
+#LoginForm
+{
+	margin-top: 50px;
+}
+
+.input
+{
+	width: 100%;
+	margin-top:20px;
+	text-align:center;
+	
+}
+.loginformcontainer
+{
+	width: 100%;
+	margin-top:20px;
+	text-align:center;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  padding-left:28px;
+  border: 0px solid #ccc;
+  border-bottom: 1px solid #eeeeee;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  background-color: rgba(245,245,245,.5);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+#show
+{
+	color:#777777;
+	margin-top:10px;
+	margin-left:2px;
+	text-align:left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	font-size:11px;
+}
+#show p
+{
+	text-align:left;
+	margin-left:25px;
+	color:#999999;
+	padding-top:1px;
+}
+
+
+  input[type="submit"] {
+    background-color: #FCBD10;
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+    padding: .5rem 1rem;
+    width: 100%;
+    margin:auto;
+    margin-top:0px;
+  }
+    input[type="submit"]:hover {
+    background-color: #FDCE4C;
+    }
+input:focus
+{
+	outline:none !important;
+	box-shadow: 0px 0px 10px #555555;
+	border:0px solid #eeeeee;
+}
+/* The message box is shown when the user clicks on the password field */
+#message {
+  display:none;
+  background: #f1f1f1;
+  color: #000;
+  position: relative;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#message p {
+  padding: 10px 35px;
+  font-size: 18px;
+}
+
+/* Add a green text color and a checkmark when the requirements are right */
+.valid {
+  color: green;
+}
+
+.valid:before {
+  position: relative;
+  left: -35px;
+  content: "✔";
+}
+
+/* Add a red text color and an "x" when the requirements are wrong */
+.invalid {
+  color: red;
+}
+
+.invalid:before {
+  position: relative;
+  left: -35px;
+  content: "✖";
+}
+
+img{
+	width:100px;
+	height:100px;
+	margin-left:-10px;
+}
+.aiclogo{
+    text-align:center;
+    margin-left:0px;
+	margin-top:45px;
+	position:absolute;
+	font-size:10px;
+	color:#ffffff !important;
+	}
+.aiclogo h3
+{
+	margin:auto;
+	margin-top:15px;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	font-size:40px;
+	position:relative;
+}
+.aiclogo p
+{
+	margin-left:0px;
+	margin-top:10px;
+	margin-bottom:0px;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	font-size:14px;
+	color:#ffffff;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+.contact
+{
+	margin-left:0px;
+	margin-top:0px !important;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	font-size:12px;
+	color:#ffffff;	
+	padding:0px !important;
+	
+}
+.contact i
+{
+	margin-top:0px;
+	margin-right:10px;
+	margin-bottom:0px;
+	height:5px;
+	text-align:left;
+	color:#ffffff;
+	width:0px;
+}
+
+.squaredOne {
+    width: 13px;
+    height: 13px;
+    background-rgba: (0,0,0,0);
+    padding-top:-10px;
+    position: absolute;
+}
+
+.squaredOne label {
+    cursor: pointer;
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 0px;
+    top: 4px;
+
+
+    background: -webkit-linear-gradient(top, #45484d 0%, #777 100%);
+    background: -moz-linear-gradient(top, #45484d 0%, #777 100%);
+    background: -o-linear-gradient(top, #45484d 0%, #777 100%);
+    background: -ms-linear-gradient(top, #45484d 0%, #777 100%);
+    background: linear-gradient(top, #45484d 0%, #777 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222', endColorstr='#45484d',GradientType=0 );
+}
+
+.squaredOne label:after {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    content: '';
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    
+
+    background: -webkit-linear-gradient(top, #FDCE4C 0%, #FDCE4C 100%);
+    background: -moz-linear-gradient(top, #FDCE4C 0%, #FDCE4C 100%);
+    background: -o-linear-gradient(top, #FDCE4C 0%, #FDCE4C 100%);
+    background: -ms-linear-gradient(top, #FDCE4C 0%, #FDCE4C 100%);
+    background: linear-gradient(top, #FDD76C 0%, #FDCE4C 100%);
+
+    top: 0px;
+    left: 0px;
+
+    
+    
+}
+
+.squaredOne label:hover::after {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+    filter: alpha(opacity=30);
+    opacity: 0.3;
+}
+
+.squaredOne input[type=checkbox]:checked + label:after {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+}

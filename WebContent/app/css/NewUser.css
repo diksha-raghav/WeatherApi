@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+body{
+    background-color: #EBEBEB;
+    margin: auto;
+    padding: 0%;
+}
+/*  .topnav {
+    background-color:rgba(180, 148, 84, 0.459);
+    overflow: hidden;
+    } */
+
+    .field{
+        font-size: 100%;
+        font-weight: bold;
+    }

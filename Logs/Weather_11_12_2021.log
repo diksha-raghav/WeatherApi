@@ -1,0 +1,1900 @@
+2021-12-11 13:28:50 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 13:28:56 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 13:29:23 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-11 13:29:23 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 13:29:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 13:29:23 INFO  UserDao:202 - User Validation successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:23 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-11 13:29:23 INFO  LoginController:84 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:23 INFO  LoginController:85 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:32 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 13:29:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 13:29:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:12:59 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:13:07 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:13:07 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:13:07 ERROR UserDao:205 - User validation failed- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:07 ERROR LoginController:99 - Invalid user- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:13:21 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:13:21 INFO  UserDao:202 - User Validation successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-11 14:13:21 INFO  LoginController:84 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginController:85 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:23 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:13:39 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:31 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:14:31 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:36 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:36 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:36 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:36 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:36 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:14:36 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:40 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:21:40 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:21:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:22:24 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:25:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:26:05 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:05 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:05 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:05 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:05 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:05 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:15 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:25 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:26:28 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:38 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:48 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:26:48 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:26:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:07 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 14:27:12 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 14:27:14 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:27:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:27:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:27:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:27:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:27:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:27:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:27:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:27:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:28:48 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:28:48 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:28:50 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:29:14 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:29:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:29:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:29:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:29:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:29:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:29:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:29:21 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:34 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:32:41 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:32:41 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:32:41 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:32:41 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:32:51 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 14:33:01 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:00 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:38:23 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-11 15:38:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:38:33 ERROR UserDao:88 - java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 10013ms.
+
+java.lang.Thread.getStackTrace(Unknown Source)
+com.model.dao.UserDao.obtainSalt(UserDao.java:85)
+com.dao.Service.UserDaoService.isuservalid(UserDaoService.java:10)
+com.controllers.servlet.LoginController.doPost(LoginController.java:66)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.lang.Thread.run(Unknown Source)
+
+2021-12-11 15:38:33 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:38:43 ERROR UserDao:209 - java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 10011ms.
+
+2021-12-11 15:38:43 ERROR UserDao:218 - java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 10011ms.
+
+java.lang.Thread.getStackTrace(Unknown Source)
+com.model.dao.UserDao.ValidateUser(UserDao.java:215)
+com.dao.Service.UserDaoService.isuservalid(UserDaoService.java:10)
+com.controllers.servlet.LoginController.doPost(LoginController.java:66)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.lang.Thread.run(Unknown Source)
+
+2021-12-11 15:38:43 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-11 15:38:43 INFO  LoginController:84 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginController:85 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:46 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:38:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:08 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:39:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:34 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:42:44 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:31 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:46 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:43:56 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:43:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:00 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:02 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:03 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:04 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:27 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:44:37 ERROR UserDao:88 - java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 10003ms.
+
+java.lang.Thread.getStackTrace(Unknown Source)
+com.model.dao.UserDao.obtainSalt(UserDao.java:85)
+com.dao.Service.UserDaoService.isuservalid(UserDaoService.java:10)
+com.controllers.servlet.LoginController.doPost(LoginController.java:66)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.lang.Thread.run(Unknown Source)
+
+2021-12-11 15:44:37 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:44:47 ERROR UserDao:209 - java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 10015ms.
+
+2021-12-11 15:44:47 ERROR UserDao:218 - java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 10015ms.
+
+java.lang.Thread.getStackTrace(Unknown Source)
+com.model.dao.UserDao.ValidateUser(UserDao.java:215)
+com.dao.Service.UserDaoService.isuservalid(UserDaoService.java:10)
+com.controllers.servlet.LoginController.doPost(LoginController.java:66)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+java.lang.Thread.run(Unknown Source)
+
+2021-12-11 15:44:47 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-11 15:44:47 INFO  LoginController:84 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginController:85 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:44:47 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:28 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:45:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:35 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:50:37 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:18 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:56:23 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 15:56:51 INFO  DBUtil:114 -  the config values are  jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-11 15:56:51 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:56:51 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:56:51 INFO  UserDao:202 - User Validation successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  DBUtil:114 -  the config values are jdbc:mysql://localhost:3306/wfmsrootAicnet@123
+
+2021-12-11 15:56:51 INFO  LoginController:84 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginController:85 - Login successfull- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:57 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:56:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:57:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:57:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:57:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:57:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:57:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:57:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:57 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 15:58:57 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 15:58:59 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:27 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:02:52 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:03:51 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:14 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:04:14 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:18 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:04:55 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:23 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:33 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:05:43 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:05:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:05:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:05:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:05:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:05:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:05:58 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:20 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:22 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:07:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:07:45 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 16:07:50 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 16:08:16 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:16 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:08:54 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:08:54 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:08:54 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:08:54 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:08:54 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:08:54 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:09:35 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:09:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:09:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:09:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:09:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:09:36 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:09:38 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:09:38 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:40 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:40 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:40 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:09:41 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:05 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:10:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:05 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:06 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:06 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:06 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:06 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:06 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:06 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:26 INFO  DBUtil:127 -  the config values are  jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 16:10:31 INFO  DBUtil:127 -  the config values are jdbc:mysql://localhost:3306/dmdatabaserootAicnet@123
+
+2021-12-11 16:10:32 INFO  DBUtil:119 -  the config values are  jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:10:32 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:10:33 INFO  LoginFilter:56 - username- mgtndl.upasanaj@aicofindia.com
+
+2021-12-11 16:11:02 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:11:02 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:11:02 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:11:02 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:11:02 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
+2021-12-11 16:11:02 INFO  DBUtil:119 -  the config values are jdbc:mysql://localhost:3306/weatherrootAicnet@123
+
